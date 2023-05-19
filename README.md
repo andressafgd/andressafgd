@@ -24,7 +24,7 @@
     <img width="55%" align="right" alt="Andressas's github stats" src="https://github-readme-stats.vercel.app/api?username=andressafgd&count_private=true&show_icons=true&theme=radical" />
   </a>
 
-  ### 🧰 Languages amnd tools: 
+  ### 🧰 Languages and tools: 
   <br/>
   <code><img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
   <code><img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
