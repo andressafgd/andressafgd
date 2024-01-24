@@ -7,7 +7,7 @@
 </div>
 <hr>
 <p>
-  I'm currently 22 years old and an undergrad student at <strong><a href="http://www.utfpr.edu.br/">Federal University Of Technology (UTFPR)</a></strong> – Brazil pursuing <strong>CSE</strong>. As a technology enthusiast, I'm constantly driven by my passion for learning and exploring new technologies, finding great joy in constructing products with meaningful purposes! 💙🚀
+  I'm currently 23 years old and an undergrad student at <strong><a href="http://www.utfpr.edu.br/">Federal University Of Technology (UTFPR)</a></strong> – Brazil pursuing <strong>CSE</strong>. As a technology enthusiast, I'm constantly driven by my passion for learning and exploring new technologies, finding great joy in constructing products with meaningful purposes! 💙🚀
 </p>
 
 ### More!
