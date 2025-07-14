@@ -7,15 +7,13 @@
 </div>
 <hr>
 <p>
-  I'm currently 24 years old and a graduated at <strong><a href="http://www.utfpr.edu.br/">Federal University Of Technology (UTFPR)</a></strong> – Brazil in <strong>CSE</strong>. As a technology enthusiast, I'm constantly driven by my passion for learning and exploring new technologies, finding great joy in constructing products with meaningful purposes! 💙🚀
+  I'm currently 25 years old and a graduated at <strong><a href="http://www.utfpr.edu.br/">Federal University Of Technology (UTFPR)</a></strong> – Brazil in <strong>CSE</strong>. As a technology enthusiast, I'm constantly driven by my passion for learning and exploring new technologies, finding great joy in constructing products with meaningful purposes! 💙🚀
 </p>
 
 ### More!
-- 🌱 I’m currently learning more about React, Node and Jest!
-- 🧗 I'm also adventuring in Machine Learning & Data Science
+- 🌱 I’m currently learning more about Go!
 - 👍 I enjoy working on
   - 💻 Web Applications
-  - 🖌️ UI/UX
 
 <hr>
 
